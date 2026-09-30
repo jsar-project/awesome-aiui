@@ -56,6 +56,7 @@ A curated collection of AIUI-related resources focused on the Rokid AIUI ecosyst
 - [AIUI Sports Agents](https://github.com/EasonZhu1997/AIUI-Sports-Agents) - Run, Bike and Rower AIUI source monorepo. By [@EasonZhu1997](https://github.com/EasonZhu1997)
 - [Cube Coach](https://github.com/guiguihui/Rokid_Cube_Copilot) - AIUI Rubik's Cube coach with camera color recognition, local solving, and voice-guided steps. By [@guiguihui](https://github.com/guiguihui)
 - [Kavi](https://github.com/zrg-team/rokid-personal-assistant) - AIUI voice calendar assistant with end-to-end Google Calendar integration via Supabase and Composio. By [@zrg-team](https://github.com/zrg-team)
+- [Claude Bridge Glasses](https://github.com/markossssssss/claude-bridge-glasses) - Published AIUI agent build for managing Claude Code agents from Rokid Glasses; requires a separate computer-side hub. By [@markossssssss](https://github.com/markossssssss)
 
 ### Samples
 
@@ -67,7 +68,6 @@ A curated collection of AIUI-related resources focused on the Rokid AIUI ecosyst
 
 - [DeepSeek Harness Rokid AIUI Toolkit](https://github.com/twinkle10010/dsh-rokid-aiui) - Rokid AIUI development integration for DeepSeek Harness
 - [Rokid AIUI Log Tool](https://github.com/MersiSun/rokid_aiui_logtool) - Log tool for Rokid Glasses AIUI Agent
-- [Claude Bridge Glasses](https://github.com/markossssssss/claude-bridge-glasses) - Published AIUI agent build for managing Claude Code agents from Rokid Glasses; requires a separate computer-side hub. By [@markossssssss](https://github.com/markossssssss)
 - [Rokid AIUI Agent Skill](https://github.com/BreezeLife/rokid-aiui-agent-skill) - Community skill for generating, validating, previewing, and packaging AIUI projects, with a Focus Timer example. By [@BreezeLife](https://github.com/BreezeLife)
 
 ## Contributing

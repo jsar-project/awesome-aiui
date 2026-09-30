@@ -55,6 +55,7 @@
 - [AIUI Sports Agents](https://github.com/EasonZhu1997/AIUI-Sports-Agents) - 跑步、单车、划船机 AIUI 源码单仓库 [@EasonZhu1997](https://github.com/EasonZhu1997)
 - [Cube Coach（魔方教练）](https://github.com/guiguihui/Rokid_Cube_Copilot) - AIUI 魔方教练，支持摄像头判色、本地求解与语音分步引导 [@guiguihui](https://github.com/guiguihui)
 - [Kavi](https://github.com/zrg-team/rokid-personal-assistant) - AIUI 语音日历助手，通过 Supabase 和 Composio 实现端到端 Google Calendar 集成 [@zrg-team](https://github.com/zrg-team)
+- [Claude Bridge Glasses](https://github.com/markossssssss/claude-bridge-glasses) - 在 Rokid Glasses 上管理 Claude Code agents 的 AIUI Agent 公开构建，需要独立电脑端 hub [@markossssssss](https://github.com/markossssssss)
 
 ### 示例
 
@@ -66,7 +67,6 @@
 
 - [DeepSeek Harness Rokid AIUI Toolkit](https://github.com/twinkle10010/dsh-rokid-aiui) - 面向 DeepSeek Harness 的 Rokid AIUI 开发集成方案
 - [Rokid AIUI Log Tool](https://github.com/MersiSun/rokid_aiui_logtool) - 面向 Rokid Glasses AIUI Agent 的日志工具
-- [Claude Bridge Glasses](https://github.com/markossssssss/claude-bridge-glasses) - 在 Rokid Glasses 上管理 Claude Code agents 的 AIUI Agent 公开构建，需要独立电脑端 hub [@markossssssss](https://github.com/markossssssss)
 - [Rokid AIUI Agent Skill](https://github.com/BreezeLife/rokid-aiui-agent-skill) - 用于生成、验证、预览和打包 AIUI 项目的社区 Skill，含 Focus Timer 示例 [@BreezeLife](https://github.com/BreezeLife)
 
 ## 贡献
