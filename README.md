@@ -20,7 +20,7 @@ A curated collection of AIUI-related resources focused on the Rokid AIUI ecosyst
 - [CLI Tools](#cli-tools)
 - [Articles](#articles)
 - [Ecosystem and Extensions](#ecosystem-and-extensions)
-  - [AIUI open-source project](#aiui-open-source-project)
+  - [Open-Source Projects](#open-source-projects)
   - [Samples](#samples)
   - [Tools](#tools)
 - [Contributing](#contributing)
@@ -54,16 +54,21 @@ A curated collection of AIUI-related resources focused on the Rokid AIUI ecosyst
 ### Open-Source Projects
 
 - [AIUI Sports Agents](https://github.com/EasonZhu1997/AIUI-Sports-Agents) - Run, Bike and Rower AIUI source monorepo. By [@EasonZhu1997](https://github.com/EasonZhu1997)
+- [Cube Coach](https://github.com/guiguihui/Rokid_Cube_Copilot) - AIUI Rubik's Cube coach with camera color recognition, local solving, and voice-guided steps. By [@guiguihui](https://github.com/guiguihui)
+- [Kavi](https://github.com/zrg-team/rokid-personal-assistant) - AIUI voice calendar assistant with end-to-end Google Calendar integration via Supabase and Composio. By [@zrg-team](https://github.com/zrg-team)
+- [Claude Bridge Glasses](https://github.com/markossssssss/claude-bridge-glasses) - Published AIUI agent build for managing Claude Code agents from Rokid Glasses; requires a separate computer-side hub. By [@markossssssss](https://github.com/markossssssss)
 
 ### Samples
 
 - [Voice-Interaction Pet Demo](https://github.com/sengmitnick/aiui-asr-pet-demo) - Demonstrates voice naming and system wake-up interactions By [@sengmitnick](https://github.com/sengmitnick)
 - [Gyroscope Test](https://github.com/jsar-project/AIUI/tree/main/samples/gyroscope-test) - Gyroscope test sample for AIUI
+- [Rokid AIUI Lab](https://github.com/saibozhanzhang/rokid-aiui-lab) - QR scanning AIUI Agent, companion QR creation tool, and on-device capability experiments and notes. By [@saibozhanzhang](https://github.com/saibozhanzhang)
 
 ### Tools
 
 - [DeepSeek Harness Rokid AIUI Toolkit](https://github.com/twinkle10010/dsh-rokid-aiui) - Rokid AIUI development integration for DeepSeek Harness
 - [Rokid AIUI Log Tool](https://github.com/MersiSun/rokid_aiui_logtool) - Log tool for Rokid Glasses AIUI Agent
+- [Rokid AIUI Agent Skill](https://github.com/BreezeLife/rokid-aiui-agent-skill) - Community skill for generating, validating, previewing, and packaging AIUI projects, with a Focus Timer example. By [@BreezeLife](https://github.com/BreezeLife)
 
 ## Contributing
 
